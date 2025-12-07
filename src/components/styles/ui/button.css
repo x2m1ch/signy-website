@@ -1,0 +1,23 @@
+button {
+    font-family: 'IBM Plex Sans';
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 20%;
+    color: #061224;
+}
+
+.one {
+    border-radius: 43px;
+    border-color: #1064E5;
+    border-width: 2px;
+    border-style: solid;
+    padding: 11px 32px;
+}
+
+.two {
+    background-color: #1064E5;
+    border-radius: 43px;
+    padding: 11px 32px;
+    
+    color: white;
+}

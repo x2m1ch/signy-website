@@ -23,10 +23,6 @@ a:hover  {
 
 /* Common */
 
-aside, nav, footer, header, section, main {
-	display: block;
-}
-
 h1, h2, h3, h4, h5, h6, p {
     font-size: inherit;
 	font-weight: inherit;
@@ -50,13 +46,6 @@ address {
 }
 
 /* Form */
-
-input, textarea, button, select {
-	font-family: inherit;
-    font-size: inherit;
-    color: inherit;
-    background-color: transparent;
-}
 
 input::-ms-clear {
 	display: none;
